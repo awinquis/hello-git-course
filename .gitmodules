@@ -1,0 +1,3 @@
+[submodule "basics/intermediate-branches"]
+	path = basics/intermediate-branches
+	url = https://course-gitlab.tuni.fi/git-course/intermediate-branches.git
